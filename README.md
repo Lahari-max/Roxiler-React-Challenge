@@ -1,4 +1,4 @@
 # Roxiler-React-Challenge
-# To run the following commands to run the project
+# Run the following commands to start the project
 # npm install
 # npm start
